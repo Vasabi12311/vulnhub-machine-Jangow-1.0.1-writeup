@@ -1,3 +1,6 @@
+![Machine](https://img.shields.io/badge/Machine-Jangow_1.0.1-blue?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-VulnHub-orange?style=for-the-badge)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-green?style=for-the-badge)
 Overview
 
 This repository contains a full technical walkthrough of the Jangow: 1.0.1 machine from VulnHub.
