@@ -1,0 +1,12 @@
+*.log
+*.pcap
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+*.vmx
+*.vmdk
+*.ova
+*.iso
+.env
